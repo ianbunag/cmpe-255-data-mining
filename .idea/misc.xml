@@ -12,5 +12,5 @@
       </MTProjectMetadataState>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.14 (cmpe-255-data-mining)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="/opt/anaconda3" project-jdk-type="Python SDK" />
 </project>
